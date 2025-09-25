@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Dart<br>🎯 Goals: Don´t deploy on fridays<br>🎲 Fun fact: Your Code</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Dart<br>🎯 Goals: Don´t deploy on fridays<br>🎲 Fun fact: My Code 😞</p>
 
 ###
 
